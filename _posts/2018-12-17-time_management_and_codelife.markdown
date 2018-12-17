@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Time Management and #CodeLife"
-date:       2018-12-17 17:30:59 +0000
+date:       2018-12-17 12:31:00 -0500
 permalink:  time_management_and_codelife
 ---
 
